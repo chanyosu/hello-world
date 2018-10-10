@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi everybady!
+I'm chanyosu that is a beginner of github.
